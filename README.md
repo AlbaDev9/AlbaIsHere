@@ -1,0 +1,4 @@
+- 👋 Salut, Je suis AlbaIsHere !
+- 👀 Mon discord : AlbaIsHere#0456
+- 🌱 Je travaille sur le JavaScript et le TypeScript
+- Ok pour l'instant il y a rien mais je vais vous mettre bientôt des choses !
