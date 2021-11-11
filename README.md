@@ -54,6 +54,6 @@
 <br>
 <br>
 
-# <p align="center"><a href="https://www.angeluriot.com/"><span>📂 Projects</span></a></p>
+# <p align="center"><span>📂 Projects</span></p>
 
 Projets bientôt disponibles...
