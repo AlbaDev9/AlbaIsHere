@@ -1,10 +1,10 @@
 <p align="center">
-	<a href="https://www.angeluriot.com/"><img src="https://i.imgur.com/VgBWkZB.png" width="100%"></a>
+	<img src="https://i.imgur.com/VgBWkZB.png" width="100%">
 </p>
 
 <br>
 
-# <p align="center"><a href="https://www.angeluriot.com/#about"><span>👦🏻 About me</span></a></p>
+# <p align="center"><a href=""><span>👦🏻 About me</span></a></p>
 
 <p align="center">
 	<span>Salut ! Je suis développeur. Et je développe en JS, TS, HTML et CSS Grâce a VSC et sublime text. Vous avez besoin de me contacter ? Contactez moi sur discord : <a href="https://discord.com/users/504315887541551104"><b>AlbaIsHere#0456</b></a></span>
