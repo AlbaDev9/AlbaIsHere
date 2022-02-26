@@ -7,7 +7,7 @@
 # <p align="center"><a href=""><span>👦🏻 About me</span></a></p>
 
 <p align="center">
-	<span>Salut ! Je suis développeur. Et je développe en JS, TS, HTML et CSS Grâce a VSC et sublime text. Vous avez besoin de me contacter ? Contactez moi sur discord : <a href="https://discord.com/users/504315887541551104"><b>AlbaIsHere#0456</b></a></span>
+	<span>Salut ! Je suis développeur. Et je développe en JS, TS, HTML et CSS Grâce a VSC et sublime text. Vous avez besoin de me contacter ? Contactez moi sur discord : <a href="https://discord.com/users/504315887541551104"><b>AlbaDev#0456</b></a></span>
 </p>
 
 <br>
